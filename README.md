@@ -1,4 +1,4 @@
-ype Person struct {
+type Person struct {
   fname string
   lname string
   age int
